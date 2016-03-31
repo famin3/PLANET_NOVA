@@ -1,0 +1,38 @@
+Main Interaction Sounds:
+
+- opening doors
+- closing doors
+- steps
+- jump
+- running
+- 
+
+
+
+PROTOTYPE SCENARIO
+
+Part 1 ( Normal working lights, working gravity accelerator)
+
+	Game start when player stands in front of the window looking at the planet
+and speaks to himself (Text_1). Music from the radio plays in the background. Speech
+indicates with words and head movements to go to the desk and watch the notes on it -
+newspaper article about little girl that died on the street in front of her home hit by
+a car. Pick up the newspaper(Text_2), read the header. When player stops reading the newspaper,
+character voice says(Text_3) that he needs come back to his duties. Info on screen -> 'Go to office
+room'. When close to the door lights go off, gravity stops working correctly ( random
+impulses to throw player few times and black out the screen). When character wakes up,
+lights are off, gravity is still on.
+
+Part 2
+	Player wakes up with lights off, the only light is coming from the planet. Player
+needs to reach the storage to get his suit on ( without it impulse he can apply is really
+small). Suit has some thrusters to help with moving in no gravity. Next step is to reach
+the computer in next room to turn on emergency lights - these, when turned off, are not
+working properly, just flickering all the time. When player gets a suit, he can use a
+flashlight, but the battery is drained very fast and it takes long time to recharge. While
+going there he starts hearing voices. When light is turned on voice tells him to go to her.
+On the way, all big objects start moving and start flying towards character, lights turns off
+and objects are back in place. Bit further hears singing behind him, when player turns around
+singing stops but now behind him appears shadow of a girl. When reaching the room, after short
+time alert goes on, warning about destabilized (something). When close to the exit something
+blows up behind and ... THE END 
