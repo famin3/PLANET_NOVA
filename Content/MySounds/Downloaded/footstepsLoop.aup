@@ -1,0 +1,37 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="footstepsLoop_data" version="1.3.0" audacityversion="2.1.0" sel0="0.0000000000" sel1="0.9275833333" vpos="0" h="0.0000000000" zoom="551.9559902200" rate="48000.0" snapto="off" selectionformat="hh:mm:ss + milliseconds">
+	<tags>
+		<tag name="Software" value="Fission"/>
+	</tags>
+	<wavetrack name="footsteps-3" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="48000" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="44524">
+				<waveblock start="0">
+					<simpleblockfile filename="e000082f.au" len="22610" min="-0.58139" max="0.627502" rms="0.022968"/>
+				</waveblock>
+				<waveblock start="22610">
+					<simpleblockfile filename="e0000035.au" len="21914" min="-0.496613" max="0.276886" rms="0.020261"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="1">
+				<controlpoint t="0.163056478405" val="0.833333313465"/>
+			</envelope>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="footsteps-3" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="48000" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="44524">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000265.au" len="22610" min="-0.665405" max="0.671844" rms="0.02621"/>
+				</waveblock>
+				<waveblock start="22610">
+					<simpleblockfile filename="e0000c8d.au" len="21914" min="-0.686249" max="0.432617" rms="0.025775"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="1">
+				<controlpoint t="0.163056478405" val="0.833333313465"/>
+			</envelope>
+		</waveclip>
+	</wavetrack>
+</project>
