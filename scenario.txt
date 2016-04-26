@@ -1,13 +1,39 @@
-Main Interaction Sounds:
-
-- opening doors
-- closing doors
-- steps
-- jump
-- running
-- 
 
 
+
+
+OFFICIAL PROTOTYPE SCENARIO
+
+	Game starts at the end of the corridor, in front of PC. End of the speech is played
+with screen still black. After it ends user gains control of character. Free roam until reaching 
+end of tunnel ( Gym / connector to main deck). Trigger turns lights off and gravity off. Character swears. Text on screen
+shows simple tutorial about flashlight. Then shows new objective - find red button to turn emergency
+lighting on. While using flashlight, when it start flickering, it shows a small girl in front of character.
+After turning the lights on again ( red, emergency lights), new objective appears - turn the gravity 
+accelerator on. On a way to the next computer, player hears sounds around him - laugh, singing,
+sees blood splatters on one of the doors/wall. After turning the gravity back on there is an explosion - 'Warning' sound.
+Objective - escape the main deck. When reaching the end of the tunnel blackout and explosion.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+==================================================
+
+***PREVIOUS VERSIONS***
 
 PROTOTYPE SCENARIO
 
@@ -36,3 +62,5 @@ and objects are back in place. Bit further hears singing behind him, when player
 singing stops but now behind him appears shadow of a girl. When reaching the room, after short
 time alert goes on, warning about destabilized (something). When close to the exit something
 blows up behind and ... THE END 
+
+=================================================================================================
