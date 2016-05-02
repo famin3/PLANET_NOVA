@@ -1,0 +1,51 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="Rocket Thrusters-SoundBible.com-1432176431_data" version="1.3.0" audacityversion="2.1.0" sel0="0.0000000000" sel1="2.5146258503" vpos="32" h="0.0000000000" zoom="136.8000000000" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds">
+	<tags/>
+	<wavetrack name="Rocket Thrusters-SoundBible.com-1432176431" channel="0" linked="1" mute="1" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="441000">
+				<waveblock start="0">
+					<simpleblockfile filename="e000033d.au" len="262144" min="-0.602692" max="0.605194" rms="0.14654"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0000359.au" len="178856" min="-0.606812" max="0.542114" rms="0.139416"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Rocket Thrusters-SoundBible.com-1432176431" channel="1" linked="0" mute="1" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="441000">
+				<waveblock start="0">
+					<simpleblockfile filename="e000080e.au" len="262144" min="-0.572784" max="0.557709" rms="0.145961"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e00005a1.au" len="178856" min="-0.56546" max="0.511444" rms="0.131628"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Rocket Thrusters-SoundBible.com-1432176431" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="110895">
+				<waveblock start="0">
+					<simpleblockfile filename="e00004fc.au" len="110895" min="-0.556611" max="0.550578" rms="0.131368"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Rocket Thrusters-SoundBible.com-1432176431" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="110895">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000601.au" len="110895" min="-0.572791" max="0.557628" rms="0.133985"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>
